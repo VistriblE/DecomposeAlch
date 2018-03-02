@@ -48,7 +48,7 @@ class Task {
 
 }
 
-(async function () {
+(async function() {
     console.log(`THIS PROGRAM WAS DEVELOPED BY VOJD'(MIKHAIL ANISCHENKO)
                     ALL RIGHTS RESERVED
                         COPYING THIS CODE IS ILLEGAL!!!`);
