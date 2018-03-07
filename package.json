@@ -11,6 +11,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jace1995/prompt": "^1.0.0"
+    "@jace1995/prompt": "^1.0.0",
+    "@types/lodash": "^4.14.104",
+    "lodash": "^4.17.5"
   }
 }
